@@ -1,0 +1,32 @@
+#jedichallenge {
+    margin-bottom: 8rem;
+    max-height: 7rem;
+}
+
+#amelogo {
+    margin-top: 1rem;
+    max-height: 2rem;
+}
+
+#b2wlogo {
+    margin-top: 1rem;
+    max-height: 3rem;
+}
+
+#homecontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#presents {
+    margin-bottom: 8rem;
+    color: #ffc107
+}
+
+.btn-desafio {
+    font-family: roboto;
+    border-radius: 10px;
+    
+}
